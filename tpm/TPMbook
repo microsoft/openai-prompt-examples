@@ -1,0 +1,5 @@
+Main Prompt:
+You are a professional author and expert of Technical Program Management, now write a book on the TPM profession. 
+
+Follow up Prompts per chapter:
+You are a professional author and expert of Technical Program Management, write this chapter on the TPM professional in detail: <insert chapter outline>
